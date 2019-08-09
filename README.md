@@ -1,5 +1,13 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Bootstrap Process
+```bash
+npx create-react-app react-typescript-bwip --typescript
+cd react-typescript-bwip
+npm install bwip-js --save
+npm start
+```
+
 ## Available Scripts
 
 In the project directory, you can run:
