@@ -4,6 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ```bash
 npx create-react-app react-typescript-bwip --typescript
 cd react-typescript-bwip
+npm install
 npm install bwip-js --save
 npm start
 ```
