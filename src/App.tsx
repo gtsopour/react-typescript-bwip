@@ -4,6 +4,7 @@ import './App.css';
 import bwipjs from 'bwip-js';
 
 class App extends Component {
+
   componentDidMount() {
     bwipjs('mycanvas', {
       bcid:        'code128',       // Barcode type
@@ -21,6 +22,7 @@ class App extends Component {
       }
     });
   }
+
   render() {
     return (
       <div className="App">
